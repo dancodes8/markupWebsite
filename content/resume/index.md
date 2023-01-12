@@ -11,9 +11,17 @@ math:
   enable: true
 ---
 
-# Experience
+[Work Experience](#work-experience) | [Education](#education) | [Awards](#awards)
+
+# Certifications
+
+###### <font size="4.5"> **CKA: Certified Kubernetes Administrator @ The Linux Foundation** </font> <div style="text-align: left"> **Singapore** · **Sep 2021** </div>
+
+> - [Verify Certification](https://www.credly.com/badges/0d7f4c1e-8c59-4aec-8a43-e4400e0d2079?source=linked_in_profile)
 
 ---
+
+# Work Experience
 
 ###### <font size="4.5"> **DevSecOps Engineer @ Partior Pte. Ltd.** </font> <div style="text-align: left"> **Singapore** · **Feb 2022 - Present** </div>
 
@@ -86,3 +94,39 @@ math:
 ###### <font size="4.5"> **Teaching Assistant @ Singapore Management University**</font> <div style="text-align: left"> **Singapore** · **Aug 2016 - Dec 2016** </div>
 
 > - Provided support for Professor Venkat SN in a class of 45 students, including facilitating group consultations, grading weekly class participation, and managing administrative tasks.
+
+---
+
+# Education
+
+###### <font size="4.5"> **Software Engineering Bootcamp @ Rocket Academy**</font> <div style="text-align: left"> **Singapore** · **Sep 2020 - April 2020** </div>
+
+> - Learnt practical technologies and key principles for Front-end and Backend Apps as well as Data Structures and Algorithms
+
+---
+
+###### <font size="4.5"> **Bachelor of Arts, Double Major @ Singapore Management University**</font> <div style="text-align: left"> **Singapore** · **Aug 2015 - Jan 2020** </div>
+
+> - High Merit in Psychology and Corporate Communications
+
+---
+
+###### <font size="4.5"> **Exchange Program @ IE University**</font> <div style="text-align: left"> **Segovia, Spain** · **Jan 2018 - May 2018** </div>
+
+---
+
+# Awards
+
+###### <font size="4.5"> **Ho See Beng Scholarship @ Singapore Management University**</font> <div style="text-align: left"> **Singapore** · **Jan 2017 - Dec 2017** </div>
+
+> - Receipient, Bond Free Scholarship (SMU-ADMINISTERED)
+
+---
+
+###### <font size="4.5"> **National Service @ Criminal Investigation Department**</font> <div style="text-align: left"> **Singapore** · **May 2013 - March 2015** </div>
+
+> - Received Grade A (Top 10% of Cohort): Presented with a written and signed testimonial by the Deputy Director of Criminal Investigation Department in Singapore
+>
+> - CID Director Awards: Awarded by the Director of the Criminal Investigation Department to select officers for consistently excellent performance over the course of the year.
+>
+> - Comissioner of Police Commendation: Awarded by the Commissioner of Police in recognition of exemplary work and dedicated service.
