@@ -85,10 +85,12 @@
         {{- range sort $socialArr "Weight" -}}
         {{- partial "plugin/social.html" . -}}
         {{- end -}}
+        <div>
+            <a class="button3" href="/resume"
+                style="display:inline-block; padding:0.3em 1.2em; margin:0 0.3em 0.3em 0; border-radius:2em; box-sizing: border-box; text-decoration:none; font-family:'Roboto',sans-serif; font-weight:300; color:#FFFFFF; background-color:#4eb5f1; text-align:center; transition: all 0.2s;">Resume</a>
+        </div>
     </div>
-    <div>
-        <a class="button3" href="/resume" style="display:inline-block; padding:0.3em 1.2em; margin:0 0.3em 0.3em 0; border-radius:2em; box-sizing: border-box; text-decoration:none; font-family:'Roboto',sans-serif; font-weight:300; color:#FFFFFF; background-color:#4eb5f1; text-align:center; transition: all 0.2s;">Resume</a>
-    </div>
+   
     {{- end -}}
 
     {{- with $profile.disclaimer -}}
