@@ -55,20 +55,6 @@ math:
 
 ---
 
-###### <font size="4.5"> **Associate Cloud Engineer @ Versent Singapore** </font> <div style="text-align: left"> **Singapore** · **May 2021 - Feb 2022** </div>
-
-> - Successfully migrated 250 projects to new CI/CD platforms within the specified timeline
->
-> - Developed a comprehensive Jenkins starter-guide to support the app-dev team in learning the CI/CD tool
->
-> - Provided comprehensive training to the client's application development team to enable them to manage their own CI/CD processes
->
-> - Conducted a technical debt analysis and provided solutions for 38 items identified
-
----
-
----
-
 ###### <font size="4.5"> **Financial Adviser @ Prudential Singapore** </font> <div style="text-align: left"> **Singapore** · **Dec 2019 - April 2021** </div>
 
 > - Accomplished the Management Associate Program goal of S$356,000 over a 14-month period
