@@ -76,13 +76,13 @@ math:
 
 ---
 
-###### <font size="4.5"> **CEO mindPower Consultancy.** </font> <div style="text-align: left">**Hong Kong** <br> **Project Consultant Business Intern** · **Aug 2018 - Jan 2019** </div>
+###### <font size="4.5"> **CEO mindPower Consultancy** </font> <div style="text-align: left">**Hong Kong** <br> **Project Consultant Business Intern** · **Aug 2018 - Jan 2019** </div>
 
 > - Improved operational efficiency of key accounts (Salvatore Ferragamo, Human Health Group (Listed), AAI Group(Listed)) by 15%, evidenced by a rise in KPI and revenue.
 
 ---
 
-###### <font size="4.5"> **CEO mindPower Consultancy.** </font> <div style="text-align: left">**Singapore** <br> **Teaching Assistant** · **Aug 2016 - Dec 2016** </div>
+###### <font size="4.5"> **Singapore Management University** </font> <div style="text-align: left">**Singapore** <br> **Teaching Assistant** · **Aug 2016 - Dec 2016** </div>
 
 > - Provided support for Professor Venkat SN in a class of 45 students, including facilitating group consultations, grading weekly class participation, and managing administrative tasks.
 
