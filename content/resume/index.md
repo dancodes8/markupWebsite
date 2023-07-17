@@ -23,7 +23,7 @@ math:
 
 # Work Experience
 
-###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** · **Feb 2023 - Present**  <br> **DevSecOps Engineer** · **Feb 2022 - Feb 2023** </div>
+###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** ·</div> <div style="text-align: right"> **Feb 2023 - Present** </div> <br><div style="text-align: left"> **DevSecOps Engineer** ·</div> <div style="text-align: right"> **Feb 2022 - Feb 2023** </div>
 
 > - Containerisation and packaging of GoQuorum blockchain network application and eight Dapps images for distribution release
 
