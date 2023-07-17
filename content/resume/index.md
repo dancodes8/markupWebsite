@@ -23,21 +23,26 @@ math:
 
 # Work Experience
 
-###### <font size="4.5"> **DevSecOps Engineer @ Partior Pte. Ltd.** </font> <div style="text-align: left"> **Singapore** · **Feb 2022 - Present** </div>
+###### <font size="4.5"> **Senior DevSecOps Engineer @ Partior Pte. Ltd.** </font> <div style="text-align: left"> **Singapore** · **Feb 2023 - Present** </div>
+###### <font size="4.5"> **DevSecOps Engineer @ Partior Pte. Ltd.** </font> <div style="text-align: left"> **Singapore** · **Feb 2022 - Feb 2023** </div>
 
-> - Co-developed an one-touch DevOps automation pipeline for delivery of a secure, easy, fast, highly available and scalable strategic blockchain network across multiple cloud platforms
->
-> - Containerisation of GoQuorum blockchain network application for strategic platform including all peripheral for deployment of an optimum cloud-container-native application network.
->
-> - Containerisation of DApps for clients to deploy easily with AWS EKS and GCP GKE
->
-> - Co-develop a command line interface in go-lang based on the Cobra framework
->
-> - Smart contract deployment via CICD Pipelines using Github Actions
->
-> - Cloud native deployment for sitnet, testnet and prodnet
->
-> - Integration of Hashicorp Vault with CICD Pipeline and k8s clusters alongside External Secrets Operator
+> - Containerisation and packaging of GoQuorum blockchain network application and eight Dapps images for distribution release
+
+> - Creation and packaging of Helm Charts required to deploy GoQuorum (Quorum + Tessera) and Dapps for distribution release
+
+> - Collaborated in the creation of a streamlined DevOps automation pipeline, enabling seamless and efficient creation and recreation of environments. This significantly reduced the engineering hours required for internal creation or recreation of new environments.
+
+> - Contributed to the co-development of a Go-lang-based command line interface that enables clients to effortlessly generate Helm values for Helm charts and SQL scripts using a YAML config file. This implementation reduces client onboarding friction and errors.
+
+> - Implemented the integration of HashiCorp Vault with GoQuorum and Dapps using the External Secrets Operator as an alternative to the Vault Injector Agent. This approach grants clients the freedom to select their desired HSM for storing their secrets, enhancing flexibility and security. See here for comparison writeup.
+
+> - Collaborated closely with Tech Writers to enhance the clarity and effectiveness of client documentation. An example is the line by line annotation the values file for the GoQuorum node Helm chart, providing client engineers with a comprehensive understanding of the required fields and inputs, facilitating their ability to configure the chart accurately.
+
+> - Successfully conducted end-to-end Integration Testing for five release cycles, delivering high-quality products to the clients.
+
+> - Authored the initial draft of a Certification Practice Statement, contributing to the establishment of a comprehensive framework. Additionally, effectively streamlined the Consultancy's Scope of Work, resulting in a substantial cost reduction of $125,000.
+
+> - Implemented Mutual TLS (mTLS) and Transport Layer Security (TLS) across the entire blockchain network and DApps, significantly enhancing security measures. This implementation ensures robust protection and confidentiality of data transmission.
 
 ---
 
