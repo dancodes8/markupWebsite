@@ -26,21 +26,21 @@ math:
 ###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** · **Feb 2023 - Present**  <br> **DevSecOps Engineer** · **Feb 2022 - Feb 2023** </div>
 
 > - Containerisation and packaging of GoQuorum blockchain network application and eight Dapps images for distribution release
-
+>
 > - Creation and packaging of Helm Charts required to deploy GoQuorum (Quorum + Tessera) and Dapps for distribution release
-
+>
 > - Collaborated in the creation of a streamlined DevOps automation pipeline, enabling seamless and efficient creation and recreation of environments. This significantly reduced the engineering hours required for internal creation or recreation of new environments.
-
+>
 > - Contributed to the co-development of a Go-lang-based command line interface that enables clients to effortlessly generate Helm values for Helm charts and SQL scripts using a YAML config file. This implementation reduces client onboarding friction and errors.
-
+>
 > - Implemented the integration of HashiCorp Vault with GoQuorum and Dapps using the External Secrets Operator as an alternative to the Vault Injector Agent. This approach grants clients the freedom to select their desired HSM for storing their secrets, enhancing flexibility and security. See here for comparison writeup.
-
+>
 > - Collaborated closely with Tech Writers to enhance the clarity and effectiveness of client documentation. An example is the line by line annotation the values file for the GoQuorum node Helm chart, providing client engineers with a comprehensive understanding of the required fields and inputs, facilitating their ability to configure the chart accurately.
-
+>
 > - Successfully conducted end-to-end Integration Testing for five release cycles, delivering high-quality products to the clients.
-
+>
 > - Authored the initial draft of a Certification Practice Statement, contributing to the establishment of a comprehensive framework. Additionally, effectively streamlined the Consultancy's Scope of Work, resulting in a substantial cost reduction of $125,000.
-
+>
 > - Implemented Mutual TLS (mTLS) and Transport Layer Security (TLS) across the entire blockchain network and DApps, significantly enhancing security measures. This implementation ensures robust protection and confidentiality of data transmission.
 
 ---
