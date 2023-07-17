@@ -45,21 +45,22 @@ math:
 
 ---
 
-###### <font size="4.5"> **Associate Cloud Engineer @ Versent Singapore** </font> <div style="text-align: left"> **Singapore** · **May 2021 - Feb 2022** </div>
 
-> - Successfully migrated 250 projects to new CI/CD platforms within the specified timeline
+###### <font size="4.5"> **Versent Singapore** </font> <div style="text-align: left">**Singapore** <br> **Associate Cloud Engineer** · **May 2021 - Feb 2022** </div>
+
+> - Achieved migration target of moving CI/CD platforms from Bamboo to Jenkins on a large scale (250 projects)
 >
-> - Developed a comprehensive Jenkins starter-guide to support the app-dev team in learning the CI/CD tool
+> - Created a Jenkins for starter-guide to upskill the app-dev team learn the CI/CD tool
 >
-> - Provided comprehensive training to the client's application development team to enable them to manage their own CI/CD processes
+> - Upskilled the application development team of the clients to be able to manage their own CI/CD processes
 >
 > - Conducted a technical debt analysis and provided solutions for 38 items identified
+> - Successfully implemented a Proof of Concept (POC) for a bank client by integrating Prometheus, Grafana, and Thanos.
 
 ---
 
 ---
-
-###### <font size="4.5"> **Financial Adviser @ Prudential Singapore** </font> <div style="text-align: left"> **Singapore** · **Dec 2019 - April 2021** </div>
+###### <font size="4.5"> **Prudential Singapore** </font> <div style="text-align: left">**Singapore** <br> **Financial Adviser** · **Dec 2019 - April 2021** </div>
 
 > - Accomplished the Management Associate Program goal of S$356,000 over a 14-month period
 >
@@ -67,7 +68,7 @@ math:
 
 ---
 
-###### <font size="4.5"> **Strategic Consultant / Product Manager @ Swype Pte. Ltd.**</font> <div style="text-align: left"> **Singapore** · **Jan 2019 - March 2020** </div>
+###### <font size="4.5"> **Swype Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Strategic Consultant / Product Manager** · **Jan 2019 - March 2020** </div>
 
 > - Collaborated in creating a business plan and presentation that attracted S$100,000 in seed capital.
 >
@@ -75,13 +76,13 @@ math:
 
 ---
 
-###### <font size="4.5"> **Project Consultant Business Intern @ CEO mindPower Consultancy**</font> <div style="text-align: left"> **Hong Kong** · **Aug 2018 - Jan 2019** </div>
+###### <font size="4.5"> **CEO mindPower Consultancy.** </font> <div style="text-align: left">**Hong Kong** <br> **Project Consultant Business Intern** · **Aug 2018 - Jan 2019** </div>
 
 > - Improved operational efficiency of key accounts (Salvatore Ferragamo, Human Health Group (Listed), AAI Group(Listed)) by 15%, evidenced by a rise in KPI and revenue.
 
 ---
 
-###### <font size="4.5"> **Teaching Assistant @ Singapore Management University**</font> <div style="text-align: left"> **Singapore** · **Aug 2016 - Dec 2016** </div>
+###### <font size="4.5"> **CEO mindPower Consultancy.** </font> <div style="text-align: left">**Singapore** <br> **Teaching Assistant** · **Aug 2016 - Dec 2016** </div>
 
 > - Provided support for Professor Venkat SN in a class of 45 students, including facilitating group consultations, grading weekly class participation, and managing administrative tasks.
 
