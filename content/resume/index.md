@@ -21,7 +21,7 @@ math:
 
 ---
 
-# Work Experience
+# Work Experiences
 
 ###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** · **Feb 2023 - Present**  <br> **DevSecOps Engineer** · **Feb 2022 - Feb 2023** </div>
 
