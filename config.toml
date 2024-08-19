@@ -1,10 +1,10 @@
-baseURL = "http://kenrickles.com/"
+baseURL = "http://danc.netlify.app/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "Kenrick"
+title = "Danc"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -32,9 +32,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # Author config
 [author]
-  name = "Kenrick"
-  email = "kenrickles@gmail.com"
-  link = "kenrickles.com"
+  name = "Dan"
+  email = "danny.chong89@gmail.com"
+  link = "danc.netlify.app"
   
 # Menu config
 [menu]
