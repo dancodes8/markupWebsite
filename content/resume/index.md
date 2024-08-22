@@ -27,18 +27,19 @@ math:
 
 ###### <font size="4.5"> **Busselton Freight Services** </font> <div style="text-align: left">**Australia** <br> **Business Analyst / Dir of BD** · **Mar 2013 - Present**</div>
 
-> - Financial modeling for the business
+> - Financial modeling, sensitivity and scenario analysis
+> - Pricing & costing analysis
 > - Increased efficiency in the business through business improvement - route efficiency in fleet reducing costs
 > - Continuously identifying savings across several departments in the business
 > - Implemented new delivery methods after rigorous simulations and live testing, and continuously trained & supported operations team during implementation
-> - Pricing & costing analysis
 > - Software integration, including but not limited to - transport management system, GPS tracking, payment system, fatigue management system
 > - Collaborated with clients to integrate their systems with Busselton Freight Services' seamlessly
 > - Created a standalone fatigue management system by utilising API data out of tracking software - utilizing Python, and displaying it in a Gantt chart format for respective outputs
 > - Main conduit between business and its outsourced IT company to implement new software and IT improvements
 > - Dynamically managed subcontractors' payments by using a cost model that is fair and adheres to government guidelines
 > - Automation with Python and Playwright/Selenium
-> - Manage all reporting via PowerBI
+> - Extract and transform data from FOXPRO/SQL databases
+> - Analytics and reporting via PowerBI
 
 ---
 
