@@ -15,7 +15,7 @@ math:
 
 <!-- [Awards](#awards) -->
 
-# Certifications
+<!-- # Certifications -->
 
 <!-- ###### <font size="4.5"> **CKA: Certified Kubernetes Administrator @ The Linux Foundation** </font> <div style="text-align: left"> **Singapore** · **Sep 2021** </div>
 
