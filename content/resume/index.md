@@ -28,15 +28,15 @@ math:
 ###### <font size="4.5"> **Busselton Freight Services** </font> <div style="text-align: left">**Australia** <br> **Business Analyst / Dir of BD** · **Mar 2013 - Present**</div>
 
 > - Financial modeling for the business
-> - Increased efficiency in the business through business improvement - route efficiency in fleet reduciong costs
-> - Continuously identifying savings over several departments in the business
-> - Imnplemented new delivery method after vigorous simulations and live testing, and continuously train & support operations team during implementation
+> - Increased efficiency in the business through business improvement - route efficiency in fleet reducing costs
+> - Continuously identifying savings across several departments in the business
+> - Implemented new delivery methods after rigorous simulations and live testing, and continuously trained & supported operations team during implementation
 > - Pricing & costing analysis
 > - Software integration, including but not limited to - transport management system, GPS tracking, payment system, fatigue management system
 > - Collaborated with clients to integrate their systems with Busselton Freight Services' seamlessly
-> - Created a stand alone fatigue management system by utilising API data out of tracking software - utilizing Python, and displaying it in a Gantt chart format for respective outputs
+> - Created a standalone fatigue management system by utilising API data out of tracking software - utilizing Python, and displaying it in a Gantt chart format for respective outputs
 > - Main conduit between business and its outsourced IT company to implement new software and IT improvements
-> - Dymnamically managed subcontractor's paymnents by using a cost model that is fair and adheres to government guidelines
+> - Dynamically managed subcontractors' payments by using a cost model that is fair and adheres to government guidelines
 > - Automation with Python and Playwright/Selenium
 > - Manage all reporting via PowerBI
 
@@ -44,7 +44,7 @@ math:
 
 ###### <font size="4.5"> **DOF Subsea Norway AS** </font> <div style="text-align: left">**Australia** <br> **Finance and Legal Intern** · **Jun 2012 - Sep 2012** </div>
 
-> - Update legal contracts library, manage employee details in the ISN online claim system, and submitting insurance expense claims
+> - Updated legal contracts library, manage employee details in the ISN online claim system, and submited insurance expense claims
 > - Handle accounts payable processing, reconciliation of statements and balanced sheet
 
 ---
@@ -61,7 +61,7 @@ math:
 
 > - Strong foundation in Mathematics & statistics, data analytics, finance and economics
 > - Mathematical and statistical techniques to model industrial and commercial processes against a financial and economic background
-> - Identify risk factors and determine the price and cost of those risks
+> - Identified risk factors and determined the price and cost of those risks
 
 ---
 
