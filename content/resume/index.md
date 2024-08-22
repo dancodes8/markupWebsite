@@ -11,7 +11,9 @@ math:
   enable: true
 ---
 
-[Work Experience](#work-experience) | [Education](#education) | [Awards](#awards)
+[Work Experience](#work-experience) | [Education](#education) |
+
+<!-- [Awards](#awards) -->
 
 # Certifications
 
@@ -23,7 +25,7 @@ math:
 
 # Work Experiences
 
-###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** · **Feb 2023 - Present**  <br> **DevSecOps Engineer** · **Feb 2022 - Feb 2023** </div>
+###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** · **Feb 2023 - Present** <br> **DevSecOps Engineer** · **Feb 2022 - Feb 2023** </div>
 
 > - Containerisation and packaging of GoQuorum blockchain network application and eight Dapps images for distribution release
 >
@@ -45,7 +47,6 @@ math:
 
 ---
 
-
 ###### <font size="4.5"> **Versent Singapore** </font> <div style="text-align: left">**Singapore** <br> **Associate Cloud Engineer** · **May 2021 - Feb 2022** </div>
 
 > - Achieved migration target of moving CI/CD platforms from Bamboo to Jenkins on a large scale (250 projects)
@@ -60,6 +61,7 @@ math:
 ---
 
 ---
+
 ###### <font size="4.5"> **Prudential Singapore** </font> <div style="text-align: left">**Singapore** <br> **Financial Adviser** · **Dec 2019 - April 2021** </div>
 
 > - Accomplished the Management Associate Program goal of S$356,000 over a 14-month period
@@ -90,23 +92,19 @@ math:
 
 # Education
 
-###### <font size="4.5"> **Software Engineering Bootcamp @ Rocket Academy**</font> <div style="text-align: left"> **Singapore** · **Sep 2020 - April 2020** </div>
+###### <font size="4.5"> **Master of Accounting @ Curtin University, Perth**</font> <div style="text-align: left"> **Australia** · **Jan 2013 - Jul 2014** </div>
 
-> - Learnt practical technologies and key principles for Front-end and Backend Apps as well as Data Structures and Algorithms
-
----
-
-###### <font size="4.5"> **Bachelor of Arts, Double Major @ Singapore Management University**</font> <div style="text-align: left"> **Singapore** · **Aug 2015 - Jan 2020** </div>
-
-> - High Merit in Psychology and Corporate Communications
+> - Develop financial, analytical, research and communication skills required of professional accountants
 
 ---
 
-###### <font size="4.5"> **Exchange Program @ IE University**</font> <div style="text-align: left"> **Segovia, Spain** · **Jan 2018 - May 2018** </div>
+###### <font size="4.5"> **Bachelor of Science, Actuarial Science @ Curtin University, Perth**</font> <div style="text-align: left"> **Australia** · **Jan 2008- Dec 2010** </div>
+
+> - Strong foundation in Mathematics & statistics, Risk Analysis and
 
 ---
 
-# Awards
+<!-- # Awards
 
 ###### <font size="4.5"> **Ho See Beng Scholarship @ Singapore Management University**</font> <div style="text-align: left"> **Singapore** · **Jan 2017 - Dec 2017** </div>
 
@@ -120,4 +118,4 @@ math:
 >
 > - CID Director Awards: Awarded by the Director of the Criminal Investigation Department to select officers for consistently excellent performance over the course of the year.
 >
-> - Comissioner of Police Commendation: Awarded by the Commissioner of Police in recognition of exemplary work and dedicated service.
+> - Comissioner of Police Commendation: Awarded by the Commissioner of Police in recognition of exemplary work and dedicated service. -->
