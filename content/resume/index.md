@@ -25,68 +25,27 @@ math:
 
 # Work Experiences
 
-###### <font size="4.5"> **Partior Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Senior DevSecOps Engineer** · **Feb 2023 - Present** <br> **DevSecOps Engineer** · **Feb 2022 - Feb 2023** </div>
+###### <font size="4.5"> **Busselton Freight Services** </font> <div style="text-align: left">**Australia** <br> **Business Analyst / Dir of BD** · **Mar 2013 - Present**</div>
 
-> - Containerisation and packaging of GoQuorum blockchain network application and eight Dapps images for distribution release
->
-> - Creation and packaging of Helm Charts required to deploy GoQuorum (Quorum + Tessera) and Dapps for distribution release
->
-> - Collaborated in the creation of a streamlined DevOps automation pipeline, enabling seamless and efficient creation and recreation of environments. This significantly reduced the engineering hours required for internal creation or recreation of new environments.
->
-> - Contributed to the co-development of a Go-lang-based command line interface that enables clients to effortlessly generate Helm values for Helm charts and SQL scripts using a YAML config file. This implementation reduces client onboarding friction and errors.
->
-> - Implemented the integration of HashiCorp Vault with GoQuorum and Dapps using the External Secrets Operator as an alternative to the Vault Injector Agent. This approach grants clients the freedom to select their desired HSM for storing their secrets, enhancing flexibility and security. See here for comparison writeup.
->
-> - Collaborated closely with Tech Writers to enhance the clarity and effectiveness of client documentation. An example is the line by line annotation the values file for the GoQuorum node Helm chart, providing client engineers with a comprehensive understanding of the required fields and inputs, facilitating their ability to configure the chart accurately.
->
-> - Successfully conducted end-to-end Integration Testing for five release cycles, delivering high-quality products to the clients.
->
-> - Authored the initial draft of a Certification Practice Statement, contributing to the establishment of a comprehensive framework. Additionally, effectively streamlined the Consultancy's Scope of Work, resulting in a substantial cost reduction of $125,000.
->
-> - Implemented Mutual TLS (mTLS) and Transport Layer Security (TLS) across the entire blockchain network and DApps, significantly enhancing security measures. This implementation ensures robust protection and confidentiality of data transmission.
+> - Financial modeling for the business
+> - Increased efficiency in the business through business improvement - route efficiency in fleet reduciong costs
+> - Continuously identifying savings over several departments in the business
+> - Imnplemented new delivery method after vigorous simulations and live testing, and continuously train & support operations team during implementation
+> - Pricing & costing analysis
+> - Software integration, including but not limited to - transport management system, GPS tracking, payment system, fatigue management system
+> - Collaborated with clients to integrate their systems with Busselton Freight Services' seamlessly
+> - Created a stand alone fatigue management system by utilising API data out of tracking software - utilizing Python, and displaying it in a Gantt chart format for respective outputs
+> - Main conduit between business and its outsourced IT company to implement new software and IT improvements
+> - Dymnamically managed subcontractor's paymnents by using a cost model that is fair and adheres to government guidelines
+> - Automation with Python and Playwright/Selenium
+> - Manage all reporting via PowerBI
 
 ---
 
-###### <font size="4.5"> **Versent Singapore** </font> <div style="text-align: left">**Singapore** <br> **Associate Cloud Engineer** · **May 2021 - Feb 2022** </div>
+###### <font size="4.5"> **DOF Subsea Norway AS** </font> <div style="text-align: left">**Australia** <br> **Finance and Legal Intern** · **Jun 2012 - Sep 2012** </div>
 
-> - Achieved migration target of moving CI/CD platforms from Bamboo to Jenkins on a large scale (250 projects)
->
-> - Created a Jenkins for starter-guide to upskill the app-dev team learn the CI/CD tool
->
-> - Upskilled the application development team of the clients to be able to manage their own CI/CD processes
->
-> - Conducted a technical debt analysis and provided solutions for 38 items identified
-> - Successfully implemented a Proof of Concept (POC) for a bank client by integrating Prometheus, Grafana, and Thanos.
-
----
-
----
-
-###### <font size="4.5"> **Prudential Singapore** </font> <div style="text-align: left">**Singapore** <br> **Financial Adviser** · **Dec 2019 - April 2021** </div>
-
-> - Accomplished the Management Associate Program goal of S$356,000 over a 14-month period
->
-> - Qualified for Million Dollar Round Table 2021 (1% of Prudential agents qualified for 2021)
-
----
-
-###### <font size="4.5"> **Swype Pte. Ltd.** </font> <div style="text-align: left">**Singapore** <br> **Strategic Consultant / Product Manager** · **Jan 2019 - March 2020** </div>
-
-> - Collaborated in creating a business plan and presentation that attracted S$100,000 in seed capital.
->
-> - Successfully released the Minimum Viable Product within 4 months and achieved the desired goal of 100 paying users and 50 merchants within 5 months.
-
----
-
-###### <font size="4.5"> **CEO mindPower Consultancy** </font> <div style="text-align: left">**Hong Kong** <br> **Project Consultant Business Intern** · **Aug 2018 - Jan 2019** </div>
-
-> - Improved operational efficiency of key accounts (Salvatore Ferragamo, Human Health Group (Listed), AAI Group(Listed)) by 15%, evidenced by a rise in KPI and revenue.
-
----
-
-###### <font size="4.5"> **Singapore Management University** </font> <div style="text-align: left">**Singapore** <br> **Teaching Assistant** · **Aug 2016 - Dec 2016** </div>
-
-> - Provided support for Professor Venkat SN in a class of 45 students, including facilitating group consultations, grading weekly class participation, and managing administrative tasks.
+> - Update legal contracts library, manage employee details in the ISN online claim system, and submitting insurance expense claims
+> - Handle accounts payable processing, reconciliation of statements and balanced sheet
 
 ---
 
@@ -100,7 +59,9 @@ math:
 
 ###### <font size="4.5"> **Bachelor of Science, Actuarial Science @ Curtin University, Perth**</font> <div style="text-align: left"> **Australia** · **Jan 2008- Dec 2010** </div>
 
-> - Strong foundation in Mathematics & statistics, Risk Analysis and
+> - Strong foundation in Mathematics & statistics, data analytics, finance and economics
+> - Mathematical and statistical techniques to model industrial and commercial processes against a financial and economic background
+> - Identify risk factors and determine the price and cost of those risks
 
 ---
 
