@@ -17,9 +17,9 @@ math:
 
 # Certifications
 
-###### <font size="4.5"> **CKA: Certified Kubernetes Administrator @ The Linux Foundation** </font> <div style="text-align: left"> **Singapore** · **Sep 2021** </div>
+<!-- ###### <font size="4.5"> **CKA: Certified Kubernetes Administrator @ The Linux Foundation** </font> <div style="text-align: left"> **Singapore** · **Sep 2021** </div>
 
-> - [Verify Certification](https://www.credly.com/badges/0d7f4c1e-8c59-4aec-8a43-e4400e0d2079?source=linked_in_profile)
+> - [Verify Certification](https://www.credly.com/badges/0d7f4c1e-8c59-4aec-8a43-e4400e0d2079?source=linked_in_profile) -->
 
 ---
 
